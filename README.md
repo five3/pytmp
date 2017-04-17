@@ -10,7 +10,7 @@ README
 
 
 执行脚本后操作：
-============================
+-------------
 1.  修改主目录名为config.data.project_name[如：NewJAVA]
 2.  修改主文件名为config.data.project_name[如：NewJAVAApplication.class]
 3.  修改pom.xml项目名
